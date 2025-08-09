@@ -1,2 +1,1 @@
-# Emarishi_Synopsys-R-D-Intern-Position
-# Emarishi_description-for-Synopsys-R-D-Intern-Position Hy! I'm Emarishi I have done M.Tech VLSI Design from IGDTUW 2023 Passout.I'm Trained fresher from 3ST Technologies Pvt Ltd 1.5+ year experience skills:Verilog,SV,UVM,C++,Digital electronics,linux.Protocols:AMBA APB,UART and FIFO I'm a great fit for this role because I have all the skills match
+Emarishi_description-for-Synopsys-R-D-Intern-Position Hy! I'm Emarishi I have done M.Tech VLSI Design from IGDTUW 2023 Passout.I'm Trained fresher from 3ST Technologies Pvt Ltd 1.5+ year experience skills:Verilog,SV,UVM,C++,Digital electronics,linux.Protocols:AMBA APB,UART and FIFO I'm a great fit for this role because I have all the skills matching and passionate to learn new projects 
